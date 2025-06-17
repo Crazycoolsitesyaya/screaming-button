@@ -1,4 +1,4 @@
 function scream() {
-  const audio = new Audio("https://www.myinstants.com/media/sounds/wilhelm-scream.mp3");
+  const audio = new Audio("https://freesound.org/data/previews/341/341695_5260877-lq.mp3");
   audio.play();
 }
